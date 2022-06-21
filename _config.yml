@@ -97,12 +97,13 @@ author:
   facebook         :
   foursquare       :
   github           : "Adityam582"
+  goodreads        : "https://www.goodreads.com/user/show/5350472-aditya-mehta"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "in/eradityamehta"
+  linkedin         : "eradityamehta"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -146,7 +147,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - _teaching
 keep_files:
   - .git
   - .svn

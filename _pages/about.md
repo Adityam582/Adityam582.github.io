@@ -8,14 +8,24 @@ redirect_from:
   - /about.html
 ---
 
+Welcome to my tiny space on the internet!
+
 Who am I?
 ======
-Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta). Although I was born and raised in Ujjain, India, however I am currently living in Koblenz, Germany.
+Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta), and I'm a data-driven AI and cloud practitioner. 
+I was born and raised in [Ujjain, India](https://en.wikipedia.org/wiki/Ujjain). 
+I am currently living in [Koblenz, Germany](https://en.wikipedia.org/wiki/Koblenz).
 
 I can describe myself as a inquisitive communicator, incomplete explorer, life architect, and lifelong student. By no means, I'm perfect and try to be less-erroneous. I enjoy solving problems and save time using technology, reducing entropy, and then serially over-thinking. 
 
+I am fluent in Python, SQL, HTML, CSS, Markdown, LaTex.
 
-What I do?
+I have experience with all phases of the software lifecycle, from design, analysis and planning to deployment in production, and even maintenance of software.
+
+I love to explore to use technologies for the benefits of human and transfer ideas in real world.
+
+
+What do I do?
 ======
 * Learn: Constant self-initiated learner: a believer, creator, and user of mental models. In my free time, I also generally enjoy working on side projects to make my own life easier. Specifically, I'm working to create comprehensive knowledge base of my life.
 
@@ -32,14 +42,16 @@ My Master thesis is "Leveraging graph representation (deep) learning for softwar
 
 
 
-* Work: I'm a professional with experience in application administration, production assurance, infrastructure management, development of innovative projects in cloud and machine learning. 
+* Work: I've worked and excelled in wide range of tasks and roles. 
 
-Timeline:
-July 2021-Dec 2021
+Anything interesting?
+=====
 
-I assumed the role of "Product Owner" as part of Cloud and Machine Learning internship at Deutsche Telekom.
+It’s been more than 2 years I have actively used the social media accounts to focus on my learning and thinking process, to make my time follow my values.
 
-I've worked and excelled in wide range of tasks and roles.
+I created, and still manage community server for University of Koblenz Web & Data science students, hosted on [Discord](). This is actively used by more than 150 students (precisely 177) to collaborate and to share useful information among students community. 
+
+
 
 Hobbies and Interests
 ======
@@ -54,6 +66,16 @@ Hobbies and Interests
 * Indian Culture
 * Roaming around on internet to find inspirational CVs, personal home page website designs
 * Intelligence (Human and artificial), data science, machine learning, networks and graph theory
+
+
+What am I doing now (these days)?
+=====
+
+* Working on Master Thesis
+* Solving practice questions to prepare for AWS SAA certification
+* Teaching as a tutor for the course "Web Information Retrieval"
+* Applying for relevant job opportunities
+
 
 
 Would you like to contact me?
