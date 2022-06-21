@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey there, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta), 
+Hey there, I'm Aditya Mehta | आदित्य मेहता (pronounced Aa-Di-T-Ya Me-h-Ta). 
 
 I'm a M.Sc. student at the [University of Koblenz, Germany](https://west.uni-koblenz.de/studying/mwds) in Web & Data Science.  
 
