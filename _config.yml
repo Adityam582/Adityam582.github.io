@@ -86,7 +86,7 @@ author:
   location         : "Koblenz, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : #https://scholar.google.com/citations?user=Uk9N6QkAAAAJ #"http://yourfullgooglescholarurl.com"
   email            : #"adityam582@yahoo.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true

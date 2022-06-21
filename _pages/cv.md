@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. Web and Data Science, University of Koblenz - Germany, Oct 2018 - Aug 2022
+* M.Sc. Computer Science ERASMUS Exchange student, University of Oulu - Finland, Mar 2020 - June 2020
+* B.Eng. Electronics and Instrumentation, Shree Vaishnav Institute of Technology and Science, Indore - India, July 2010 - June 2014
 
 Work experience
 ======
