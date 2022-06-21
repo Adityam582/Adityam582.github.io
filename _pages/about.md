@@ -26,7 +26,7 @@ Hobbies and Interests
 * Hinduism
 * Spiritualism
 * Indian Culture
-* Roaming around on internet to find inspirational CVs, website home pages designs
+* Roaming around on internet to find inspirational CVs, personal home page website designs
 * Intelligence (Human and artificial), data science, machine learning, networks and graph theory
 
 Education

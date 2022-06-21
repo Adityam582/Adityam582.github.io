@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Does the First Mover Advantage Exist on GitHub?"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is about the number 1.'
+date: 2020-06-03
+venue: 'ArXiv Journal: Social and Information Networks (cs.SI)'
+paperurl: '(cs.SI)'
+citation: 'Mehta Aditya (2020). &quot;Does the First Mover Advantage Exist on GitHub?.&quot; <i>ArXiv Journal: Social and Information Networks (cs.SI)</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://arxiv.org/pdf/2006.02193)
+
+Recommended citation: Mehta Aditya. (2020). "Does the First Mover Advantage Exist on GitHub?" <i>ArXiv Journal: Social and Information Networks (cs.SI)</i>. 1(1).
