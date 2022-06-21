@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Koblenz, Computer Science"
-date: 2022-06-30
+date: 2021-09-30
 location: "Koblenz, Germany"
 ---
 
