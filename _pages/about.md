@@ -31,9 +31,11 @@ Hobbies and Interests
 
 Education
 ======
+* University of Koblenz, Germany
+* University of Oulu, Finland
+* Shree Vaishnav Institute of Technology and Science
 
-
-Site-wide configuration
+Experience
 ------
 
 
