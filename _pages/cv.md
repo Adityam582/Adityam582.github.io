@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Click to download PDF version of [CV](https://www.dropbox.com/s/kjw7p7rd2zcwle3/CV_Aditya_Mehta_2022.pdf?dl=0).
+
 Education
 ======
 * M.Sc. Web and Data Science, University of Koblenz - Germany, Oct 2018 - Aug 2022
