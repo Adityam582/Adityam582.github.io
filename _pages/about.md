@@ -74,7 +74,7 @@ What do I do?
 ======
 * Learn: Constant self-initiated learner: a believer, creator, and user of mental models. In my free time, I also generally enjoy working on side projects to make my own life easier. Specifically, I'm working to create comprehensive knowledge base of my life.
 
-* Study: I'm a multi-disciplinary person. I completed Bachelors of Engineering with honors in Electronics and Instrumentation Engineering from [Shree Vaishnav Institute of Technology and Science](https://svvv.edu.in/). However, I did not get spark to stay in electronics field, instead I was always more interested with computers. The concepts learnt from the field of electronics were certainly useful to understand and apply concepts in computer science. So ya, I switched from Electronics to Computer Science field.
+* Study: I'm a multi-disciplinary person. I completed Bachelors of Engineering with honors in Electronics and Instrumentation Engineering from [Shree Vaishnav Institute of Technology and Science, Indore - India](https://svvv.edu.in/). However, I did not get spark to stay in electronics field, instead I was always more interested with computers. The concepts learnt from the field of electronics were certainly useful to understand and apply concepts in computer science. So ya, I switched from Electronics to Computer Science field.
 
 I'm a M.Sc. student in Web & Data Science at the [University of Koblenz, Germany](https://west.uni-koblenz.de/studying/mwds). My masters is focused on the Web, Data Science, and Information Retrieval. I gained foundational knowledge about various topics from the fields as Web, Technology, Business and Society. 
 
@@ -98,6 +98,12 @@ I created, and still manage community server for University of Koblenz Web & Dat
 
 
 
+My Deep Learning Project
+=====
+This is a project, making computers to learn to predict, if an image contains traces of tumor. Want to try out yourself? Simply use any webpage and upload image.
+
+Application deployed on Streamlit: https://adityam582-brain-tumor-classification-app-ulea8d.streamlitapp.com/
+Application deployed on Heroku: https://neuroai-image-classifier.herokuapp.com/
 
 
 
