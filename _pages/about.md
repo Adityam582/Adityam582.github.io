@@ -113,13 +113,6 @@ I created, and still manage community server for University of Koblenz Web & Dat
 
 
 
-My Deep Learning Project
-=====
-This is a project, making computers to learn to predict, if an image contains traces of tumor. Want to try out yourself? Simply use any webpage and upload image.
-
-Click here to use application deployed on [Streamlit](https://adityam582-brain-tumor-classification-app-ulea8d.streamlitapp.com/)
-
-Click here to use application deployed on [Heroku](https://neuroai-image-classifier.herokuapp.com/)
 
 
 

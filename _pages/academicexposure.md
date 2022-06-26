@@ -18,7 +18,7 @@ Coursework
 
 * Network Theory and Dynamic Systems
 * Semantic Web
-* Web Retrieval
+* Web Information Retrieval
 * Computational Social Science
 
 * Introduction to Data Science
