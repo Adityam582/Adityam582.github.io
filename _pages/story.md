@@ -26,6 +26,11 @@ Timeline
 * 2022 June (oh, that's now, better to see now section below)
 
 
+Adjectives to describe Aditya
+=====
+I can describe myself as a inquisitive communicator, incomplete explorer, lifelong student and life architect by reducing entropy. 
+
+
 Personal Mission Statement
 =====
 

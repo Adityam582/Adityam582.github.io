@@ -7,17 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Welcome to my tiny space on the internet! (Last updated: June 26, 2022)
-
-
 About Aditya
 ======
-Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta). 
+🙏 Welcome to my tiny space on the internet! Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta). 
 
 I am passionate to use the power of data and artificial intelligence to help humans take better decisions.
 
-I love to explore using technologies to help humans capture, transfer and implement ideas in real world.
+<!-- I love to explore using technologies to help humans capture, transfer and implement ideas in real world. -->
 
 One of my Ex-boss (a SVP at Citibank Inc) gave me the title of "curious kid".
 
@@ -27,7 +23,7 @@ I single-task, do deep work, believe in hybrid work, think long-term and future-
 
 In my free time, I let myself wander a lot, mostly inside the world of books, or on a walk in nature.
 
-I can describe myself as a inquisitive communicator, incomplete explorer, lifelong student and life architect by reducing entropy. 
+
 <!-- By no means, I'm perfect and try to be less-erroneous. I enjoy solving problems and save time using technology, reducing entropy, and then serially over-thinking.  -->
 
 <!-- My main tools are the Vim text editor, OpenBSD operating system, PostgreSQL database, Ruby language, and Firefox browser.  -->
@@ -38,3 +34,4 @@ Contact?
 If you got interested in talking more about experiences, education, opportunities, or just hangout, feel free to connect on [Linkedin](https://www.linkedin.com/in/eradityamehta). I'd love to have a conversation because I believe: 'every person I meet has a story, and experiences, which can teach me something new'.
 
 
+(Last updated: June 26, 2022)
