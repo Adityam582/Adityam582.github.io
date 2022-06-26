@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Aditya"
-excerpt: "About Aditya"
+# title: "About Aditya"
+# excerpt: "About Aditya"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my tiny space on the internet! (Last updated: June 26, 2022)
 
 
-Who am I?
+About Aditya
 ======
 Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta). 
 
