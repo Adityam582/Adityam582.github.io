@@ -7,8 +7,27 @@ redirect_from:
   - /academicexposure.md
 ---
 
-Coursework
+# Teaching
 =====
+1. Student Assistant - Introduction to Web Science - Winter Semester 2020/21
+2. Student Assistant - Introduction to Web Science - Winter Semester 2021/22
+
+Responsibilities:
+* Evaluate the performance of students by evaluating assignments and projects
+
+3. Tutor/Teaching Assistant - Web Information Retrieval - Summer Semester 2021
+4. Tutor/Teaching Assistant - Web Information Retrieval - Summer Semester 2022
+
+Responsibilities:
+* Prepare assignments, projects and exams to assess performance of students
+* Teach different topics using videos and slides, explaining in online/classroom sessions
+
+
+
+# Coursework
+=====
+
+## Masters of Science 
 
 * Introduction to Web Science
 * Engineering Web and Data Intensive Systems
@@ -31,7 +50,7 @@ Coursework
 * ICT and Behavior Change
 
 
-
+## Bachelor of Engineering
 Semester 8
 * Optical Instruments and Sensors
 * Digital Control Systems                                                        

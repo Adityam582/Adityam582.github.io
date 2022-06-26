@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Teaching"
-    url: /teaching/  
+  # - title: "Teaching"
+  #   url: /teaching/  
 
   - title: "Publications"
     url: /publications/
@@ -21,8 +21,8 @@ main:
   - title: "Guide"
     url: /markdown/
 
-  - title: "my page"
-    url: /mypage/
+  # - title: "my page"
+  #   url: /mypage/
 
   - title: "Academic Exposure"
     url: /academicexposure/
