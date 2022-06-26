@@ -7,25 +7,26 @@ redirect_from:
   - /academicexposure.md
 ---
 
-# Teaching
-=====
+# Teaching 
+
+**Positions**
 1. Student Assistant - Introduction to Web Science - Winter Semester 2020/21
 2. Student Assistant - Introduction to Web Science - Winter Semester 2021/22
 
-Responsibilities:
+**Responsibilities:**
 * Evaluate the performance of students by evaluating assignments and projects
 
+**Positions**
 3. Tutor/Teaching Assistant - Web Information Retrieval - Summer Semester 2021
 4. Tutor/Teaching Assistant - Web Information Retrieval - Summer Semester 2022
 
-Responsibilities:
+**Responsibilities:**
 * Prepare assignments, projects and exams to assess performance of students
 * Teach different topics using videos and slides, explaining in online/classroom sessions
 
 
 
-# Coursework
-=====
+# Studying - Coursework
 
 ## Masters of Science 
 

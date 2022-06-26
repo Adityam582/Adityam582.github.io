@@ -1,28 +1,38 @@
 # main links links
 main:
   - title: "Portfolio"
-    url: /portfolio/
+    url: /myportfolio/
   
+  - title: "Life - Story"
+    url: /story/
+
+  - title: "Academic Exposure"
+    url: /academicexposure/
+
   - title: "CV"
     url: /cv/
+
+  - title: "What's up now?"
+    url: /now/
 
   # - title: "Teaching"
   #   url: /teaching/  
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
       
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
 
   # - title: "my page"
   #   url: /mypage/
 
-  - title: "Academic Exposure"
-    url: /academicexposure/
+  
+
+

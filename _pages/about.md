@@ -8,22 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my tiny space on the internet! (Last updated: June 21, 2022)
+Welcome to my tiny space on the internet! (Last updated: June 26, 2022)
 
 
 Who am I?
 ======
 Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta), and I'm a data-driven AI and cloud practitioner. 
 
-I was born and raised in [Ujjain, India](https://en.wikipedia.org/wiki/Ujjain). 
-
-I am currently living in [Koblenz, Germany](https://en.wikipedia.org/wiki/Koblenz).
-
 I am passionate to use the power of data to help humans take better decisions.
 
 I love to explore using technologies to help humans capture, transfer and implement ideas in real world.
 
-One of my Ex-boss (a SVP at Citibank Inc) gave me title of "curious kid".
+One of my Ex-boss (a SVP at Citibank Inc) gave me the title of "curious kid".
 
 I'm passionately curious. I enjoy learning and discovering new things. I've found broad ranges of interest because of this.
 
@@ -43,22 +39,7 @@ My main tools are the Vim text editor, OpenBSD operating system, PostgreSQL data
 
 I think very long-term and future-focused.
 
-Timeline
-=====
-* 1992 Born in Indore, India
-* 2009 Attended schools at Ujjain, India
-* 2010 Started B.Eng. at Indore, India
-* 2014 June: Finished Bachelors
-* 2014 Sept: Started working at Infosys, moved to Mysore for training
-* 2014 Dec: Finished training at Infosys - Mysore campus
-* 2015 Jan: Joined Infosys - Chandigarh campus as Systems Engineer
-* 2018 Mar: Left Infosys - Chandigarh, India 
-* 2018 Apr: Joined Exusia - Pune, India
-* 2018 Sept: Left Exusia
-* 2018 Oct: Moved to Koblenz, Germany; started Masters of Science in Web and Data Science
-* 2020 Mar: Moved to Oulu, Finland for ERASMUS exchange semester
-* 2020 July: Moved back to Koblenz, Germany
-* 2022 June (oh, that's now, better to see now section below)
+
 
 
 Personal Mission Statement
@@ -68,20 +49,6 @@ I would like to engage in focused deep work. I would do these things everyday: r
 
 
 
-Hobbies and Interests
-======
-* Reading
-* Intelligence (Human and artificial), data science, machine learning, networks and graph theory
-* Travelling
-* Attention economy, deep work, productivity
-* Building a Second Brain
-* Investments (time and money)
-* Learning, unlearning and relearning constantly
-* Deep one-to-one conversations
-* Hinduism
-* Spiritualism
-* Indian Culture
-* Roaming around on internet to find inspirational CVs, personal home page website designs
 
 
 
@@ -116,18 +83,7 @@ I created, and still manage community server for University of Koblenz Web & Dat
 
 
 
-What am I doing now (these days)?
-=====
 
-* Working on Master Thesis
-* Solving practice questions to prepare for AWS SAA certification
-* Teaching as a tutor for the course "Web Information Retrieval"
-* Applying for relevant job opportunities
-* Living in ...
-* Habits: digital minimalism
-* What I'm learning? AWS
-* Personal projects: creating my knowledge base. I love markdowns.
-* Books I'm reading: 
 
 
 Future?
