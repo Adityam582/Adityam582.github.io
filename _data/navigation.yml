@@ -23,3 +23,6 @@ main:
 
   - title: "my page"
     url: /mypage/
+
+  - title: "Academic Exposure"
+    url: /academicexposure/
