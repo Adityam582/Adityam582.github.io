@@ -26,6 +26,12 @@ Timeline
 * 2022 June (oh, that's now, better to see now section below)
 
 
+Personal Mission Statement
+=====
+
+I would like to engage in focused deep work. I would do these things everyday: read, write, think, meditate, walk. I will build and maintain delightful relationships with family and friends. I will learn a lot to create an impact by making a difference.
+
+
 Hobbies and Interests
 ======
 * Reading

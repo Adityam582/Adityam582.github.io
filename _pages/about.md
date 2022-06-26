@@ -15,41 +15,24 @@ Who am I?
 ======
 Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta), and I'm a data-driven AI and cloud practitioner. 
 
-I am passionate to use the power of data to help humans take better decisions.
+I am passionate to use the power of data and artificial intelligence to help humans take better decisions.
 
 I love to explore using technologies to help humans capture, transfer and implement ideas in real world.
 
 One of my Ex-boss (a SVP at Citibank Inc) gave me the title of "curious kid".
 
-I'm passionately curious. I enjoy learning and discovering new things. I've found broad ranges of interest because of this.
-
-I let myself wander a lot, mostly inside the world of books, or on a walk in nature.
-
-I am fluent in Python, SQL, HTML, CSS, Markdown, TeX.
+I single-task, do deep work, think long-term and future-focused.
 
 I believe in hybrid work.
 
-I single-task.
+I am fluent in Python, SQL, HTML, CSS, Markdown, TeX. I use Firefox browser.
 
-I have experience with all phases of the software lifecycle, from design, analysis and planning to deployment in production, and even maintenance of software.
+In my free time, I let myself wander a lot, mostly inside the world of books, or on a walk in nature.
 
-I can describe myself as a inquisitive communicator, incomplete explorer, life architect, and lifelong student. By no means, I'm perfect and try to be less-erroneous. I enjoy solving problems and save time using technology, reducing entropy, and then serially over-thinking. 
+I can describe myself as a inquisitive communicator, incomplete explorer, lifelong student and life architect by reducing entropy. 
+<!-- By no means, I'm perfect and try to be less-erroneous. I enjoy solving problems and save time using technology, reducing entropy, and then serially over-thinking.  -->
 
-My main tools are the Vim text editor, OpenBSD operating system, PostgreSQL database, Ruby language, and Firefox browser. 
-
-I think very long-term and future-focused.
-
-
-
-
-Personal Mission Statement
-=====
-
-I would like to engage in focused deep work. I would do these things everyday: read, write, think, meditate, walk. I will build and maintain delightful relationships with family and friends. I will learn a lot to create an impact by making a difference.
-
-
-
-
+<!-- My main tools are the Vim text editor, OpenBSD operating system, PostgreSQL database, Ruby language, and Firefox browser.  -->
 
 
 What do I do?
