@@ -23,11 +23,25 @@ I am passionate to use the power of data to help humans take better decisions.
 
 I love to explore using technologies to help humans capture, transfer and implement ideas in real world.
 
-I am fluent in Python, SQL, HTML, CSS, Markdown, LaTex.
+One of my Ex-boss (a SVP at Citibank Inc) gave me title of "curious kid".
+
+I'm passionately curious. I enjoy learning and discovering new things. I've found broad ranges of interest because of this.
+
+I let myself wander a lot, mostly inside the world of books, or on a walk in nature.
+
+I am fluent in Python, SQL, HTML, CSS, Markdown, TeX.
+
+I believe in hybrid work.
+
+I single-task.
 
 I have experience with all phases of the software lifecycle, from design, analysis and planning to deployment in production, and even maintenance of software.
 
 I can describe myself as a inquisitive communicator, incomplete explorer, life architect, and lifelong student. By no means, I'm perfect and try to be less-erroneous. I enjoy solving problems and save time using technology, reducing entropy, and then serially over-thinking. 
+
+My main tools are the Vim text editor, OpenBSD operating system, PostgreSQL database, Ruby language, and Firefox browser. 
+
+I think very long-term and future-focused.
 
 Timeline
 =====
@@ -60,6 +74,7 @@ Hobbies and Interests
 * Intelligence (Human and artificial), data science, machine learning, networks and graph theory
 * Travelling
 * Attention economy, deep work, productivity
+* Building a Second Brain
 * Investments (time and money)
 * Learning, unlearning and relearning constantly
 * Deep one-to-one conversations
@@ -115,6 +130,12 @@ What am I doing now (these days)?
 * Solving practice questions to prepare for AWS SAA certification
 * Teaching as a tutor for the course "Web Information Retrieval"
 * Applying for relevant job opportunities
+* Living in ...
+* Habits: digital minimalism
+* What I'm learning? AWS
+* Personal projects: creating my knowledge base. I love markdowns.
+* Books I'm reading: 
+
 
 Future?
 ======
@@ -128,6 +149,10 @@ Contact?
 If you got interested in talking more about experiences, education, opportunities, or just hangout, feel free to connect on [Linkedin](https://www.linkedin.com/in/eradityamehta). I'd love to have a conversation because I believe: 'every person I meet has a story, and experiences, which can teach me something new'.
 
 
+Favorite Quotes
+=====
+"If I have seen further, it is by standing on the shoulders of giants."
+""
 
 Coursework
 =====
