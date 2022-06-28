@@ -9,9 +9,9 @@ redirect_from:
 ---
 <!-- About Aditya -->
 <!-- ====== -->
-🙏 Welcome to my tiny space on the internet! Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta). 
+🙏 Welcome to my digital home! Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta). 
 
-I am passionate to use the power of data and artificial intelligence to help humans take better decisions.
+I love to use the power of data and artificial intelligence to help humans take better decisions.
 
 <!-- I love to explore using technologies to help humans capture, transfer and implement ideas in real world. -->
 
@@ -19,7 +19,7 @@ One of my Ex-boss (a SVP at Citibank Inc) gave me the title of "curious kid".
 
 I am can communicate in _Python, SQL, HTML, CSS, Markdown, TeX_, and _Hindi, English, German_. 
 
-I single-task, do deep work, use Firefox browser, believe in hybrid work, think long-term and future-focused.
+I single-task, do deep & hybrid work, use Firefox browser, think long-term and future-focused.
 
 In my free time, I let myself wander a lot, mostly inside the world of books, or on a walk in nature.
 

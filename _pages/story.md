@@ -47,7 +47,7 @@ Personal Mission Statement
 Hobbies and Interests
 ======
 * Reading
-* Intelligence (Human and artificial), data science, machine learning, networks and graph theory
+* Intelligence (Human and artificial), data science, machine learning, networks & graph theory
 * Travelling
 * Attention economy, deep work, productivity
 * Building a Second Brain
