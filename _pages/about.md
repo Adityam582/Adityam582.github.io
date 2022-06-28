@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!-- About Aditya -->
 <!-- ====== -->
-🙏 Welcome to my digital home! Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta). 
+🙏 Welcome, Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta). 
 
 I love to use the power of data and artificial intelligence to help humans take better decisions.
 
@@ -31,8 +31,10 @@ In my free time, I let myself wander a lot, mostly inside the world of books, or
 
 Contact?
 ------
-If you got interested in talking more about experiences, education, opportunities, or just hangout, feel free to connect on [Linkedin](https://www.linkedin.com/in/eradityamehta). 
-I'd love to have a conversation because I believe: "every person you meet has a story, and experiences, which can teach something new".
+<!-- If you got interested in talking more about experiences, education, opportunities, or just hangout, -->
 
+Feel free to connect on [Linkedin](https://www.linkedin.com/in/eradityamehta).  
 
-(Last updated: June 26, 2022)
+<!-- I'd love to have a conversation because I believe:  -->
+
+> "Every person you meet has a story, and experiences, which can teach something new". (Last updated: June 26, 2022)
