@@ -11,7 +11,7 @@ redirect_from:
 
 Click to download PDF version of [CV](https://www.dropbox.com/s/kjw7p7rd2zcwle3/CV_Aditya_Mehta_MSc_WebDataScience_Cloud_AI_Data_Roles.pdf?dl=0).
 
-Education
+<!-- Education
 ======
 * M.Sc. Web and Data Science, University of Koblenz - Germany, Oct 2018 - Aug 2022
 * M.Sc. Computer Science ERASMUS Exchange student, University of Oulu - Finland, Mar 2020 - June 2020
@@ -27,7 +27,7 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 
 Learning Curve
@@ -66,22 +66,22 @@ Learning Curve
 
 Industry Training
 =====
-Completed rigorous Foundation Program Training by Infosys limited, which involved learning the theoretical and practical aspects of various subjects of Computer Science field.
-Hands on experience of working on several projects based on application and
-implementation of areas such as
-• Object oriented programming using JAVA
-• Implementing database using MS SQL server
-• Software engineering
-• Integration of programming and software engineering
-• Operating systems
-• User interface and web technologies
-• Computational Problem Solving
-• Programming using CSharp (C#)
-• Enterprise Applications Development and Maintenance
-• Developing web applications using ASP.NET and ADO.NET
-• Presentation Skills Hands On
-• Business Communication
+* Infosys Limited: Sept 2014 - Dec 2014
 
+* Foundation Program Training
++ Object oriented programming using JAVA
++ Implementing database using MS SQL server
++ Software engineering
++ Integration of programming and software engineering
++ Operating systems
++ User interface and web technologies
++ Computational Problem Solving
++ Programming using CSharp (C#)
++ Enterprise Applications Development and Maintenance
++ Developing web applications using ASP.NET and ADO.NET
++ Presentation Skills Hands On
++ Business Communication
+<!-- 
 Skills
 ======
 * Skill 1
@@ -111,4 +111,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
