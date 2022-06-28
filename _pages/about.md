@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Aditya
+<!-- About Aditya -->
 ======
 🙏 Welcome to my tiny space on the internet! Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta). 
 
