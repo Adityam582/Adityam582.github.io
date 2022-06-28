@@ -6,8 +6,8 @@ main:
   - title: "Life - Story"
     url: /story/
 
-  - title: "Academic Exposure"
-    url: /academicexposure/
+  # - title: "Learning Curve"
+  #   url: /learning_curve/
 
   - title: "CV"
     url: /cv/
