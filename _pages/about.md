@@ -21,7 +21,7 @@ I am can communicate in _Python, SQL, HTML, CSS, Markdown, TeX_, and _Hindi, Eng
 
 I single-task, do deep & hybrid work, use Firefox browser, think long-term and future-focused.
 
-In my free time, I let myself wander a lot, mostly inside the world of books, or on a walk in nature.
+In my free time, I wander a lot, mostly inside the world of books, or on a walk in nature.
 
 
 <!-- By no means, I'm perfect and try to be less-erroneous. I enjoy solving problems and save time using technology, reducing entropy, and then serially over-thinking.  -->
@@ -31,11 +31,10 @@ In my free time, I let myself wander a lot, mostly inside the world of books, or
 
 Contact?
 ------
-<!-- If you got interested in talking more about experiences, education, opportunities, or just hangout, -->
+<!-- If you got interested in talking more about experiences, education, opportunities, or just hangout,I'd love to have a conversation because I believe:  -->
 
 Feel free to connect on [Linkedin](https://www.linkedin.com/in/eradityamehta).  
 
-<!-- I'd love to have a conversation because I believe:  -->
+> "Each person you meet, has stories, and experiences, which can teach something new". 
 
-> "Every person you meet has a story, and experiences, which can teach something new". 
 Last updated: June 26, 2022

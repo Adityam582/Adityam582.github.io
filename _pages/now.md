@@ -1,12 +1,11 @@
 ---
 permalink: /now/
 # title: "Now"
-author_profile: true
+# author_profile: true
 redirect_from: 
   - /now.html
   - /now.md
 ---
-
 What am I doing now (these days)?
 =====
 
