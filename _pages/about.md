@@ -37,4 +37,5 @@ Feel free to connect on [Linkedin](https://www.linkedin.com/in/eradityamehta).
 
 <!-- I'd love to have a conversation because I believe:  -->
 
-> "Every person you meet has a story, and experiences, which can teach something new". (Last updated: June 26, 2022)
+> "Every person you meet has a story, and experiences, which can teach something new". 
+Last updated: June 26, 2022
