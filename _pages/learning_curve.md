@@ -9,16 +9,18 @@ redirect_from:
 
 # Teaching 
 
-**Positions**
-1. Student Assistant - Introduction to Web Science - Winter Semester 2020/21
-2. Student Assistant - Introduction to Web Science - Winter Semester 2021/22
+## **Positions**
+* **Student Assistant** - Introduction to Web Science - Winter Semester 2020/21
+* **Student Assistant** - Introduction to Web Science - Winter Semester 2021/22
 
 **Responsibilities:**
 * Evaluate the performance of students by evaluating assignments and projects
 
-**Positions**
-3. Tutor/Teaching Assistant - Web Information Retrieval - Summer Semester 2021
-4. Tutor/Teaching Assistant - Web Information Retrieval - Summer Semester 2022
+
+## **Positions**
+* **Tutor/Teaching Assistant** - Web Information Retrieval - Summer Semester 2021
+* **Tutor/Teaching Assistant** - Web Information Retrieval - Summer Semester 2022
+
 
 **Responsibilities:**
 * Prepare assignments, projects and exams to assess performance of students
@@ -52,6 +54,7 @@ redirect_from:
 
 
 ## Bachelor of Engineering
+
 Semester 8
 * Optical Instruments and Sensors
 * Digital Control Systems                                                        
@@ -78,7 +81,7 @@ Semester 5
 * Communication Engineering
 * Power Electronics
 * Analytical & Industrial Instrumentation
-* Matlab Lab     
+* MatLab     
 
 Semester 4
 * Mathematics III

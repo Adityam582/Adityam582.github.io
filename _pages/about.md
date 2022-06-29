@@ -11,7 +11,7 @@ redirect_from:
 <!-- ====== -->
 🙏 Welcome, Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta). 
 
-I love to use the power of data and artificial intelligence to help humans take better decisions.
+I love to use the power of data, artificial intelligence & cloud to help humans take better decisions.
 
 <!-- I love to explore using technologies to help humans capture, transfer and implement ideas in real world. -->
 

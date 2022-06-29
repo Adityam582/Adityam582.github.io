@@ -16,7 +16,7 @@ collection: portfolio
 
 # Data-driven Projects
 
-1. NeuroAI: brain-tumor-classification (Deep Learning: Computer Vision)
+## NeuroAI: brain-tumor-classification (Deep Learning: Computer Vision)
 
 * This is an end-to-end machine learning lifecycle project, when I started from picking the dataset up to deploying as a web application. This helped me learn various nuance of a ML project development. 
 
@@ -30,7 +30,7 @@ Click here to use application deployed on [Heroku](https://neuroai-image-classif
 
 **Skills:** Python, Tensorflow, Keras, Numpy, Pandas, Streamlit
 
-2. New York City Taxi Trip Data Analysis (Big Data: Data Analysis)
+## New York City Taxi Trip Data Analysis (Big Data: Data Analysis)
 
 * The purpose of our project is to study and analyse traffic patterns and insights from the data obtained from a fleet of taxi operating in New York City. 
 
@@ -42,7 +42,7 @@ Click here to use application deployed on [Heroku](https://neuroai-image-classif
 
 * Please check the complete report: [click here](https://adityam582.github.io/files/BigDataProjectReport.pdf)
 
-3. Sensors Data Analytics (IoT: Data Analytics)
+## Sensors Data Analytics (IoT: Data Analytics)
 
 * The purpose of this project is to analyze real-world IoT sensors dataset, to identify seasonal activity patterns, and create visualization such as a dashboard.
 
@@ -52,7 +52,7 @@ Click here to use application deployed on [Heroku](https://neuroai-image-classif
 
 * Please check the complete report: [click here](https://adityam582.github.io/files/IOTExercise2.pdf)
 
-4. Indian General Election Analysis (Computational Social Science: Data Analysis)
+## Indian General Election Analysis (Computational Social Science: Data Analysis)
 
 * The purpose of this project is to study different factors and reasons on how women participation has changed in Indian national elections over period 1977-2014.
 
@@ -60,31 +60,31 @@ Click here to use application deployed on [Heroku](https://neuroai-image-classif
 
 # Research-driven Projects
 
-1. Digital Consumer Behavior
+## Digital Consumer Behavior
 
 * Title: Influence of micro moments on the customer journey 
 
 * Please check the complete report: [click here](https://adityam582.github.io/files/DigitalConsumerBehaviorSeminarReport.pdf)
 
-2. Research Lab
+## Research Lab
 
 * Title: Early Mover Advantage on GitHub 
 
 * Please check the complete report: [click here](https://adityam582.github.io/files/ResearchReportFirstMoverAdvantageGitHub.pdf)
 
-3. Big Data
+## Big Data
 
 * Title: Edge Computing
 
 * Please check the complete report: [click here](https://adityam582.github.io/files/BigDataSeminarReportEdge_Computing.pdf)
 
-4. ICT and Behavior Change
+## ICT and Behavior Change
 
 * Title: Towards a healthy use of Facebook in everyday life
 
 * Please check the complete report: [click here](https://adityam582.github.io/files/ICT_Seminar_Paper.pdf)
 
-5. Master Thesis 
+## Master Thesis 
 
 * Title: Graph Representation Learning for Software Engineering
 
