@@ -111,7 +111,7 @@ Motion activity throughout year
 
 ## Indian Elections Analysis (Computational Social Science: Data Analysis)
 
-* **Purpose**: to analyze factors of women participation in Indian national elections over period 1977-2014.
+* **Purpose**: to analyze women participation in Indian national elections over period 1977-2014.
 
 * **Results**
 
