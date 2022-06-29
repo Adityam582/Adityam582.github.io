@@ -37,4 +37,4 @@ Feel free to connect on [Linkedin](https://www.linkedin.com/in/eradityamehta).
 
 > "Each person you meet, has stories, and experiences, which can teach something new". 
 
-Last updated: June 26, 2022
+Last updated: June 30, 2022
