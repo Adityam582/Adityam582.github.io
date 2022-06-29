@@ -1,6 +1,6 @@
 ---
 permalink: /learning_curve/
-title: "Learning Curve"
+# title: "Learning Curve"
 author_profile: true
 redirect_from: 
   - /learning_curve.html
@@ -10,16 +10,16 @@ redirect_from:
 # Teaching 
 
 ## **Positions**
-* **Student Assistant** - Introduction to Web Science - Winter Semester 2020/21
-* **Student Assistant** - Introduction to Web Science - Winter Semester 2021/22
+* **Student Assistant** - Introduction to Web Science - Oct 2021 - Feb 2022 
+* **Student Assistant** - Introduction to Web Science - Oct 2020 - Feb 2021 
 
 **Responsibilities:**
 * Evaluate the performance of students by evaluating assignments and projects
 
 
 ## **Positions**
-* **Tutor/Teaching Assistant** - Web Information Retrieval - Summer Semester 2021
-* **Tutor/Teaching Assistant** - Web Information Retrieval - Summer Semester 2022
+* **Tutor/Teaching Assistant** - Web Information Retrieval - Apr - Sep 2022
+* **Tutor/Teaching Assistant** - Web Information Retrieval - Apr - Sep 2021
 
 
 **Responsibilities:**
@@ -117,7 +117,6 @@ Semester 1
 
 # Learning Horizon
 
-=====
 
 | Focus Area 	| Issuer 	| Year 	| Expiry 	| Link 	|
 |---	|---	|---	|---	|---	|
