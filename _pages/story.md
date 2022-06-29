@@ -1,7 +1,7 @@
 ---
 permalink: /story/
 title: "Story"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /story.html
   - /story.md

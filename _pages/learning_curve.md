@@ -1,6 +1,6 @@
 ---
 permalink: /learning_curve/
-# title: "Academic Exposure"
+title: "Learning Curve"
 author_profile: true
 redirect_from: 
   - /learning_curve.html
