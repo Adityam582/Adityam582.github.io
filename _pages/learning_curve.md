@@ -1,5 +1,5 @@
 ---
-permalink: /Learning Curve/
+permalink: /learning_curve/
 # title: "Academic Exposure"
 author_profile: true
 redirect_from: 
