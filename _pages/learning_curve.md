@@ -10,19 +10,13 @@ redirect_from:
 # Teaching 
 
 ## **Positions**
+* **Tutor/Teaching Assistant** - Web Information Retrieval - Apr - Sep 2022
 * **Student Assistant** - Introduction to Web Science - Oct 2021 - Feb 2022 
-* **Student Assistant** - Introduction to Web Science - Oct 2020 - Feb 2021 
+* **Tutor/Teaching Assistant** - Web Information Retrieval - Apr - Sep 2021
+* **Student Assistant** - Introduction to Web Science - Oct 2020 - Feb 2021
 
 **Responsibilities:**
 * Evaluate the performance of students by evaluating assignments and projects
-
-
-## **Positions**
-* **Tutor/Teaching Assistant** - Web Information Retrieval - Apr - Sep 2022
-* **Tutor/Teaching Assistant** - Web Information Retrieval - Apr - Sep 2021
-
-
-**Responsibilities:**
 * Prepare assignments, projects and exams to assess performance of students
 * Teach different topics using videos and slides, explaining in online/classroom sessions
 
@@ -131,10 +125,8 @@ Semester 1
 | Python 	| Kaggle 	| May 2020 	|  	| [Link](https://www.dropbox.com/s/6o9jtpwahz9w5lu/Aditya%20Mehta%20-%20Python.pdf?dl=0) 	|
 | Bayesian Statistics 	| Coursera 	| Dec 2019 	|  	| [Link](https://www.coursera.org/account/accomplishments/certificate/8VPNFDM8D3FU) 	|
 | Deutsch als Fremdsprache A2.1 	| University of Koblenz 	| Jul 2019 	|  	|  	| 
-<!-- [Link](https://www.dropbox.com/s/bj7n00mtrcb64ts/Deutsch%20Certificate%20A2.pdf?dl=0) -->
 | Knowledge Engineering with Semantic Web 	| Hasso Platner 	| Jul 2019 	|  	| [Link](https://www.dropbox.com/s/yogi0ssojjrxej0/semanticweb_ConfirmationOfParticipation.pdf?dl=0) 	|
-| Deutsch als Fremdsprache A1.1 	| University of Koblenz 	| Feb 2019 	|  	|  	|
-<!-- [Link](https://www.dropbox.com/s/he0jtn9kc2bpt4t/Deutsch%20Certificate%20A1.pdf?dl=0) -->
+| Deutsch als Fremdsprache A1.1 	| University of Koblenz 	| Feb 2019 	|  	|  	| |
 | German Language Basics 	| DuoLingo 	| Sep 2018 	|  	|  	|
 | Data Science: R Basics 	| DataCamp 	| Aug 2018 	|  	| [Link](https://www.datacamp.com/statement-of-accomplishment/course/e89283c4c63e11aac133fbff4a97a1eb49f8bee9) 	|
 | Introduction to Python Programming 	| Udemy 	| Jul 2018 	|  	| [Link](https://www.udemy.com/certificate/UC-60L98OS2/) 	|
@@ -151,11 +143,16 @@ Semester 1
 | Bhartiya Sanskriti Gyan Pariksha 	| Gayatri Parivar 	| 2006 	|  	|  	|
 
 
+
+<!-- [Link](https://www.dropbox.com/s/bj7n00mtrcb64ts/Deutsch%20Certificate%20A2.pdf?dl=0) -->
+<!-- [Link](https://www.dropbox.com/s/he0jtn9kc2bpt4t/Deutsch%20Certificate%20A1.pdf?dl=0) -->
+
 # Industry Training
 =====
-* Infosys Limited: Sept 2014 - Dec 2014
+* Infosys Limited, Mysore - India: Sept 2014 - Dec 2014
 
 * Foundation Program Training
+* Final Average (71%)
 
 + Object oriented programming using JAVA
 + Implementing database using MS SQL server

@@ -31,7 +31,7 @@ Adjectives to describe Aditya
 * inquisitive communicator
 * incomplete explorer
 * lifelong student
-* life architect 
+* life architect and engineer 
 
 
 

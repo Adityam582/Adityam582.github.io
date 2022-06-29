@@ -6,7 +6,7 @@ redirect_from:
   - /myportfolio.html
   - /myportfolio.md
 ---
-  
+
 <!-- ---
 title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
@@ -31,6 +31,13 @@ Click here to use application deployed on [Heroku](https://neuroai-image-classif
 
 **Skills:** Python, Tensorflow, Keras, Numpy, Pandas, Streamlit
 
+![Adityam582.github.io\images\DL_project_NeuroAI.png](DL_project_NeuroAI.png)
+
+![DL_project_NeuroAI.png](Adityam582.github.io\images\DL_project_NeuroAI.png)
+
+
+
+
 ## New York City Taxi Trip Data Analysis (Big Data: Data Analysis)
 
 * The purpose of our project is to study and analyse traffic patterns and insights from the data obtained from a fleet of taxi operating in New York City. 
@@ -53,7 +60,7 @@ Click here to use application deployed on [Heroku](https://neuroai-image-classif
 
 * Please check the complete report: [click here](https://adityam582.github.io/files/IOTExercise2.pdf)
 
-## Indian General Election Analysis (Computational Social Science: Data Analysis)
+## Indian Elections Analysis (Computational Social Science: Data Analysis)
 
 * The purpose of this project is to study different factors and reasons on how women participation has changed in Indian national elections over period 1977-2014.
 
