@@ -67,7 +67,7 @@ This is the screenshot from deployed web application:
 
 * **Use cases:** Traffic Optimization and Financial Analysis
 
-**Technologies/Tools:** Spark on a distributed cluster with 4 servers, PySpark, SQL API, Pandas, Matplotlib, Seaborn 
+* **Technologies/Tools:** Spark on a distributed cluster with 4 servers, PySpark, SQL API, Pandas, Matplotlib, Seaborn 
 
 * Please check the complete report: [click here](https://adityam582.github.io/files/BigDataProjectReport.pdf)
 
@@ -87,9 +87,9 @@ Average distance per ride for weekday trips
 
 * The purpose of this project is to analyze real-world IoT sensors dataset, to identify seasonal activity patterns, and create visualization such as a dashboard.
 
-**Technologies/Tools:** Python, Matplotlib, Seaborn, 
+* **Technologies/Tools:** Python, Matplotlib, Seaborn, 
 
-* Visualization: [Click to see animated visualization](https://drive.google.com/file/d/1gDaSUJgnSAhwLtndxnUqVwOxO3edKH9t/view)
+* **Visualization**: [Click to see animated visualization](https://drive.google.com/file/d/1gDaSUJgnSAhwLtndxnUqVwOxO3edKH9t/view)
 
 * Please check the complete report: [click here](https://adityam582.github.io/files/IOTExercise2.pdf)
 

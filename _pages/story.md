@@ -7,7 +7,6 @@ redirect_from:
   - /story.md
 ---
 
-
 Timeline
 =====
 * 1992 Born in [Indore, India](https://en.wikipedia.org/wiki/Indore) 

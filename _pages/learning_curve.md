@@ -6,9 +6,7 @@ redirect_from:
   - /learning_curve.html
   - /learning_curve.md
 ---
-
-# Teaching 
-
+# Teaching
 ## **Positions**
 * **Tutor/Teaching Assistant** - Web Information Retrieval - Apr - Sep 2022
 * **Student Assistant** - Introduction to Web Science - Oct 2021 - Feb 2022 
@@ -19,8 +17,6 @@ redirect_from:
 * Evaluate the performance of students by evaluating assignments and projects
 * Prepare assignments, projects and exams to assess performance of students
 * Teach different topics using videos and slides, explaining in online/classroom sessions
-
-
 
 # Studying - Coursework
 
