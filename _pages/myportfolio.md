@@ -1,7 +1,7 @@
 ---
 permalink: /myportfolio/
 # title: "Portfolio"
-# author_profile: true
+author_profile: true
 redirect_from: 
   - /myportfolio.html
   - /myportfolio.md

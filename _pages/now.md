@@ -1,12 +1,12 @@
 ---
 permalink: /now/
 # title: "Now"
-# author_profile: true
+author_profile: true
 redirect_from: 
   - /now.html
   - /now.md
 ---
-
+<!-- About Aditya -->
 * Living in Koblenz, Germany
 * Working on Master Thesis: scheduled delivery 30 July 
 * Applying for relevant job opportunities

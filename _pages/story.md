@@ -1,12 +1,12 @@
 ---
 permalink: /story/
 # title: "Story"
-# author_profile: true
+author_profile: true
 redirect_from: 
   - /story.html
   - /story.md
 ---
-
+<!-- About Aditya -->
 Timeline
 =====
 * 1992 Born in [Indore, India](https://en.wikipedia.org/wiki/Indore) 
