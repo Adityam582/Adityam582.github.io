@@ -1,7 +1,7 @@
 ---
 permalink: /learning_curve/
 # title: "Learning Curve"
-author_profile: true
+# author_profile: true
 redirect_from: 
   - /learning_curve.html
   - /learning_curve.md
