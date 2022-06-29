@@ -1,12 +1,13 @@
 ---
 permalink: /learning_curve/
-# title: "Learning Curve"
+title: "Learning Curve"
 author_profile: true
 redirect_from: 
   - /learning_curve.html
   - /learning_curve.md
 ---
 <!-- About Aditya -->
+
 # Teaching
 ## **Positions**
 * **Tutor/Teaching Assistant** - Web Information Retrieval - Apr - Sep 2022

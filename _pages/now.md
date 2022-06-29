@@ -7,6 +7,7 @@ redirect_from:
   - /now.md
 ---
 <!-- About Aditya -->
+
 * Living in Koblenz, Germany
 * Working on Master Thesis: scheduled delivery 30 July 
 * Applying for relevant job opportunities
