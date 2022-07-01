@@ -1,6 +1,6 @@
 ---
 permalink: /story/
-title: "Story"
+title: "Life - Story"
 author_profile: true
 redirect_from: 
   - /story.html

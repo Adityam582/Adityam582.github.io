@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please click on the link to download PDF version of [CV](https://www.dropbox.com/s/kjw7p7rd2zcwle3/CV_Aditya_Mehta_MSc_WebDataScience_Cloud_AI_Data_Roles.pdf?dl=0).
+Please click on the link to download PDF version of [CV](https://www.dropbox.com/s/v79ht5jr75loe1m/CV_Aditya_Mehta_MSc_WebDataScience_AI_Cloud_Data_Roles.pdf?dl=0).
 
 <!-- Education
 ======
