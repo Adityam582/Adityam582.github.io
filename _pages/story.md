@@ -18,8 +18,8 @@ Timeline
 * 2018 Mar: Left Infosys - Chandigarh
 * 2018 Apr: Joined Exusia - Pune
 * 2018 Sept: Left Exusia
-* 2018 Oct: Moved to [Koblenz, Germany](https://en.wikipedia.org/wiki/Koblenz); started Masters of Science in Web and Data Science
-* 2020 Mar: Moved to Oulu, Finland for ERASMUS exchange semester
+* 2018 Oct: Moved to [Koblenz, Germany](https://en.wikipedia.org/wiki/Koblenz); started Masters of Science in Web and Data Science at [University of Koblenz](https://west.uni-koblenz.de/studying/mwds)
+* 2020 Mar: Moved to [Oulu, Finland](https://en.wikipedia.org/wiki/Oulu) for ERASMUS exchange semester at [University of Oulu](https://en.wikipedia.org/wiki/University_of_Oulu)
 * 2020 July: Moved back to Koblenz, Germany
 * Now: better to see [now](https://adityam582.github.io/now/) section
 
