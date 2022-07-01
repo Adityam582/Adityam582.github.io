@@ -10,6 +10,7 @@ redirect_from:
 
 Timeline
 =====
+
 * 1992 Born in [Indore, India](https://en.wikipedia.org/wiki/Indore) 
 * 2009 Attended schools at  [Ujjain, India](https://en.wikipedia.org/wiki/Ujjain)
 * 2010 Started B.Eng. in Electronics and Instrumentation at SVITS, Indore

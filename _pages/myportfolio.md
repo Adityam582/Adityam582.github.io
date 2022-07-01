@@ -25,7 +25,8 @@ collection: portfolio
 
 Machine Learning Workflow
 
-![ML Workflow](../images/ML_Workflow.png 'size=20')
+![ML Workflow](../images/ML_Workflow.png)
+
 
 Image Credits: Strata London - Deep Learning, Turi, Inc. [link](http://www.slideshare.net/turi-inc/strata-london-deep-learning-052015)
 
