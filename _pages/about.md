@@ -19,7 +19,7 @@ One of my Ex-boss (a SVP at Citibank Inc) gave me the title of "curious kid".
 
 I am can communicate in _Python, SQL, HTML, CSS, Markdown, TeX_, and _Hindi, English, German_. 
 
-I single-task, do deep & hybrid work, use Firefox browser, think long-term and future-focused.
+I single-task, do deep work (hybrid mode), use Firefox browser, think long-term and future-focused.
 
 In my free time, I wander a lot, mostly inside the world of books, or on a walk in nature.
 
@@ -33,7 +33,7 @@ Contact?
 ------
 <!-- If you got interested in talking more about experiences, education, opportunities, or just hangout,I'd love to have a conversation because I believe:  -->
 
-Feel free to connect on [Linkedin](https://www.linkedin.com/in/eradityamehta).  
+Feel free to connect on [Linkedin](https://www.linkedin.com/in/eradityamehta). Or, schedule a meeting in my calendar [here](https://calendly.com/speakwithaditya).
 
 > "Each person you meet, has stories, and experiences, which can teach something new". 
 

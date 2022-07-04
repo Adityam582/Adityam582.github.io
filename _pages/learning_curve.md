@@ -112,6 +112,7 @@ Semester 1
 
 | Focus Area 	| Issuer 	| Year 	| Expiry 	| Link 	|
 |---	|---	|---	|---	|---	|
+| Design Thinking | PDA Group	| Jul 2022 	| | [Link](https://www.dropbox.com/s/fqwxuuj8rwxcwq6/Design%20Thinking.pdf?dl=0)|
 | AWS Cloud Practitioner 	| AWS 	| Dec 2021 	| Dec 2024 	| [Link](https://www.credly.com/badges/31b333f8-2a66-4e15-b2a8-6de3cf160dc3/public_url)|
 | AWS Cloud Practitioner Essentials 	| AWS 	| Oct 2021 	| Oct 2024 	| [Link](https://www.dropbox.com/s/p5xd4z78fvexiay/Aditya%20Mehta%20AWS_CCP_Essential_Certificate.pdf?dl=0) |
 | Applied AI Essentials 	| LiveAI - EU 	| Apr 2021 	|  	|  [Link](https://www.dropbox.com/s/h8859u08uh4zsgn/Aditya%20AAIE%20Certificate.pdf?dl=0)	|
@@ -146,7 +147,7 @@ Semester 1
 <!-- [Link](https://www.dropbox.com/s/he0jtn9kc2bpt4t/Deutsch%20Certificate%20A1.pdf?dl=0) -->
 
 # Industry Training
-=====
+
 * Infosys Limited, Mysore - India: Sept 2014 - Dec 2014
 
 * Foundation Program Training
