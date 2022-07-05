@@ -17,7 +17,7 @@ I love to use the power of data, artificial intelligence & cloud to help humans 
 
 One of my Ex-boss (a SVP at Citibank Inc) gave me the title of "curious kid".
 
-I am can communicate in _Python, SQL, HTML, CSS, Markdown, TeX_, and _Hindi, English, German_. 
+I can communicate in _Python, SQL, HTML, CSS, Markdown, TeX_, and _Hindi, English, German_. 
 
 I single-task, do deep work (hybrid mode), use Firefox browser, think long-term and future-focused.
 
@@ -37,4 +37,4 @@ Feel free to connect on [Linkedin](https://www.linkedin.com/in/eradityamehta). O
 
 > "Each person you meet, has stories, and experiences, which can teach something new". 
 
-Last updated: June 30, 2022
+Last updated: July 05, 2022
