@@ -5,8 +5,6 @@ author_profile: true
 redirect_from: 
   - /reading.html
   - /reading.md
+permalink: /reading.html
 ---
-
-# My Reading Lists
-
 
