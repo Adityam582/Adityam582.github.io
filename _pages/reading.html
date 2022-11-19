@@ -1,13 +1,13 @@
 ---
 layout: default
-permalink: /reading.html
+permalink: /reading/
 author_profile: true
 modified: 2022-11-19
-redirect_from: 
-  - /reading/
-  - /reading.md
 ---
-
+{% include base_path %}
+{% for post in site.pages %}
+  {% include archive-single.html %}
+{% endfor %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
