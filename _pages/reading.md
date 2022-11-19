@@ -5,4 +5,3 @@ redirect_from:
   - /reading.html
   - /reading.md
 ---
-
