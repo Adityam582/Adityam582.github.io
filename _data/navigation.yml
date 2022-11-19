@@ -12,8 +12,16 @@ main:
   - title: "Learning Curve"
     url: /learning_curve/
 
+  - title: "Reading"
+    url: /reading/
+
+  - title: "Writing: blog"
+    url: /writing/
+
   - title: "What's up now?"
     url: /now/
+
+
 
   # - title: "Teaching"
   #   url: /teaching/  
