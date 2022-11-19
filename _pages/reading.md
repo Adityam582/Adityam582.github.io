@@ -4,5 +4,9 @@ permalink: /reading/
 author_profile: true
 redirect_from: 
   - /reading.html
-  - /reading.md
+  #- /reading.md
 ---
+
+# My Reading Lists
+
+

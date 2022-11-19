@@ -11,14 +11,10 @@ redirect_from:
 
 ## Erstwhile Pages (on-off attempts in last 12 years)
 
-https://adityajimehta.blogspot.com/
-
-https://adityamehta.substack.com/p/coming-soon
-
-https://adityam582.wordpress.com/
-
-https://webofknowledge.school.blog/
-
-www.adityaishere.wordpress.com/ 
+* [Blogspot](https://adityajimehta.blogspot.com/)
+* [Substack](https://adityamehta.substack.com/p/coming-soon)
+* [WordPress](https://adityam582.wordpress.com/)
+* [school.blog](https://webofknowledge.school.blog/)
+* [WordPressSite](www.adityaishere.wordpress.com/) 
 
  
