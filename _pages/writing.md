@@ -15,6 +15,4 @@ redirect_from:
 * [Substack](https://adityamehta.substack.com/p/coming-soon)
 * [WordPress](https://adityam582.wordpress.com/)
 * [school.blog](https://webofknowledge.school.blog/)
-* [WordPressSite](www.adityaishere.wordpress.com/) 
-
- 
+* [WordPressSite](www.adityaishere.wordpress.com/)
