@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+modified: 2022-11-20
 ---
 <!-- About Aditya -->
 <!-- ====== -->
@@ -37,4 +38,4 @@ Feel free to connect on [Linkedin](https://www.linkedin.com/in/eradityamehta). O
 
 > "Each person you meet, has stories, and experiences, which can teach something new". 
 
-Last updated: Nov 19, 2022
+
