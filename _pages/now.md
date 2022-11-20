@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /now.html
   - /now.md
+modified: 2022-11-20
 ---
 <!-- About Aditya -->
 
@@ -17,4 +18,3 @@ redirect_from:
 * Writing: Please click here to read [click here](https://adityam582.github.io/writing/)
 <!-- * Working on Master Thesis: scheduled delivery 30 July Applying for relevant job opportunities -->
 <!-- * Teaching as a tutor for the course "Web Information Retrieval" -->
-Last updated: 2022 Nov 19
