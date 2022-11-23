@@ -8,3 +8,7 @@ redirect_from:
 modified: 2022-11-20
 ---
 Please click on [Let's Glow Substack](https://letsglow.substack.com/) page to read my written words.
+
+[example markdown page](example1.md)
+
+
