@@ -1,6 +1,12 @@
-
-```toc
-``` 
+---
+permalink: /aws_journey/
+# title: "Portfolio"
+author_profile: false
+# redirect_from: 
+#   - /writing.html
+#   - /writing.md
+modified: 2022-12-12
+---
 # AWS Certification Overview
 
 You can learn more about the different AWS certifications below: 
