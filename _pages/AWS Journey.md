@@ -103,12 +103,12 @@ Essential elements of trainings:
 ## AWS Cloud Practitioner (AWS CCP)
 
 I started with AWS Cloud Practitioner certificate first. I prepared on my own through 
-https://digitalcloud.training/aws-certified-cloud-practitioner/ ultimate training package, and wrote the exam.
+[Digital Cloud AWS CCP](https://digitalcloud.training/aws-certified-cloud-practitioner/) ultimate training package, and wrote the exam.
 
 ### Steps of learning
 •	**Theory**: Understanding theory concepts by watching video tutorial course
 	*  Alternatively, you can watch the full video on YouTube for free: 
-	[AWS Certified Cloud Practitioner Certification Course ](https://www.youtube.com/watch?v=SOTamWNgDKc) 
+	[AWS Certified Cloud Practitioner Certification Course](https://www.youtube.com/watch?v=SOTamWNgDKc) 
 
 •	**Practice**: Practicing exam questions by doing practice exam course
 
@@ -121,7 +121,7 @@ https://digitalcloud.training/aws-certified-cloud-practitioner/ ultimate trainin
 ## AWS Solutions Architect (AWS SAA)
 
 Next, I continued with AWS Solutions Architect Associate certificate. I prepared through 
-https://digitalcloud.training/aws-certified-solutions-architect-associate/ ultimate training package, and wrote the exam.
+[Digital Cloud AWS SAA](https://digitalcloud.training/aws-certified-solutions-architect-associate/) ultimate training package, and wrote the exam.
 
 ### Steps of learning
 •	**Theory**: Understanding theory concepts by watching video tutorial course
@@ -146,9 +146,9 @@ https://digitalcloud.training/aws-certified-solutions-architect-associate/ ultim
 
 ## Helpful resources
 
-* https://towardsaws.com/aws-solution-architect-associate-certification-study-notes-c32f50503f8a
+* [AWS SAA Study Notes](https://towardsaws.com/aws-solution-architect-associate-certification-study-notes-c32f50503f8a)
 
-* https://www.kaustubhsharma.com/blog/AWS-SOLUTIONS-ARCHITECT-ASSOCIATE-cheat-sheet
+* [AWS SAA CheatSheet](https://www.kaustubhsharma.com/blog/AWS-SOLUTIONS-ARCHITECT-ASSOCIATE-cheat-sheet)
 
 ### Revision: using Mind maps
 
