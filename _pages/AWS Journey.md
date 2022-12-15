@@ -86,21 +86,22 @@ All certifications are independent of each other. You take take any of them dire
 
 Essential elements of trainings: 
 
-•	Understanding of theory concepts
+•	Understanding of concepts
 
 •	Practicing the exam questions
 
-•	Recommended to do hands-on practical experience
+•	Recommended to do hands-on practical experience (not absolutely necessary though)
 
 ### Options
 
-1. AWS Trainings
+1. AWS Trainings or AWS Skill Builder or through AWS Partner Networks (APNs)
 
 2. YouTube videos
 
-3. Dedicated course on Udemy/other online platforms
+3. Dedicated course on Digital Cloud Training/Udemy/other online platforms
 
-* Although one may tend to go for free options such as on AWS website, or YouTube videos to learn theory concepts. However, the most efficient way is to do it through a dedicated course, which is usually paid. For example, [NEW Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/), or the ones from [Digital Cloud](https://digitalcloud.training/) as mentioned below. These options are really worth the money you pay for.
+* Although one may tend to go for free options such as AWS website/APNs to learn concepts, however it's tedious and time-consuming. 
+* The most efficient way is to do it through a dedicated course, which is usually paid. For example, [NEW Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) basically the content from Stephane Maarek, or the ones from [Digital Cloud](https://digitalcloud.training/). These options are really worth the money you pay for.
 
 * Irrespective of whether you buy a paid course to learn theory concepts or you learn them for free, buying "practice exams" course is really heavily recommended and the most efficient way to crack the certificate.
 
@@ -112,17 +113,38 @@ I started with AWS Cloud Practitioner certificate first. I prepared on my own th
 [Digital Cloud AWS CCP](https://digitalcloud.training/aws-certified-cloud-practitioner/) ultimate training package, and wrote the exam.
 
 ### Steps of learning
-•	**Theory**: Understanding theory concepts by watching video tutorial course
-	*  Alternatively, you can watch the full video on YouTube for free: 
-	[AWS Certified Cloud Practitioner Certification Course](https://www.youtube.com/watch?v=SOTamWNgDKc) 
+
+•	**Theory**: Understanding theory concepts by watching video tutorial course 
 
 •	**Practice**: Practicing exam questions by doing practice exam course
 
 •	**Hands-on**: I was already working on AWS in my previous project, so did not do hands-on separately.
 
-**Time spent** about two weeks for understanding concepts, two weeks for practicing exam questions.
+**Time spent**: about two weeks for understanding concepts, two weeks for practicing exam questions.
 
 **Certification passed**: 13 Dec 2021
+
+### My recommendation
+
+1. Understanding concepts: Watch the full video on YouTube (you may like to install a good ad-blocker):
+
+* Basic Introduction: [ AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE)
+
+* Deep Dive: [AWS Certified Cloud Practitioner Certification Course](https://www.youtube.com/watch?v=SOTamWNgDKc)
+
+* Do make notes, however not too much detailed.
+
+2. Practice questions: 
+
+* Get this course [AWS CCP DCT Practice Exams](https://digitalcloud.training/courses/aws-ccp-practice-exams/)
+
+  Logical flow of practice (step-wise): Do questions from 
+  1. Practice Exams – Knowledge Review 
+  2. Practice Exams – Training Mode
+  3. Practice Exams – Exam Mode
+  4. Final exam simulator
+
+* Don't take too much detailed notes. Do note down why some specific option is right or wrong.
 
 ## AWS Solutions Architect (AWS SAA)
 
@@ -130,17 +152,22 @@ Next, I continued with AWS Solutions Architect Associate certificate. I prepared
 [Digital Cloud AWS SAA](https://digitalcloud.training/aws-certified-solutions-architect-associate/) ultimate training package, and wrote the exam.
 
 ### Steps of learning
-•	**Theory**: Understanding theory concepts by watching video tutorial course
+
+•	**Theory**: Understanding concepts by watching video tutorial course
 
 •	**Practice**: Practicing exam questions by doing practice exam course
 
 •	**Hands-on**: I tried working with some but not all hands-on lessons in the course
 
-
 **Time spent**: about six weeks for understanding concepts, two weeks for  practicing exam questions. 
 
 **Certification passed**: 7 Dec 2022
 
+### My recommendation
+
+* Buying a dedicated course such as the one mentioned above is a good idea for AWS SAA. 
+* Also, it's recommended though not absolutely necessary to do hands-on experiments to learn by doing.
+* The logical flow of practice stays same as mentioned for AWS CCP.
 
 ## Reasons to do it this way
 
