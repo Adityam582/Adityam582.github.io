@@ -149,7 +149,7 @@ I started with AWS Cloud Practitioner certificate first. I prepared on my own th
 
 ### My recommendation
 
-1. Understanding concepts: Watch the full video on YouTube (you may like to install a good ad-blocker):
+1. Understanding concepts: Watch the full video on YouTube. You may like to install a good ad-blocker, and watch the video in parts, for example 30/60 minutes in one session:
 
 * Basic Introduction: [ AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE)
 
