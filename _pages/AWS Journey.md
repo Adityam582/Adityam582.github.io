@@ -28,7 +28,7 @@ AWS Learning Journey
     - [My recommendation](#my-recommendation-1)
   - [Reasons to do it this way](#reasons-to-do-it-this-way)
   - [Helpful resources](#helpful-resources)
-    - [Revision: using Mind maps](#revision-using-mind-maps)
+  - [Revision: using Mind maps](#revision-using-mind-maps)
 
 
 # AWS Certification Overview
@@ -206,7 +206,7 @@ Next, I continued with AWS Solutions Architect Associate certificate. I prepared
 
 * [AWS SAA CheatSheet](https://www.kaustubhsharma.com/blog/AWS-SOLUTIONS-ARCHITECT-ASSOCIATE-cheat-sheet)
 
-### Revision: using Mind maps
+## Revision: using Mind maps
 
 I used mind-maps to quickly revise various services.
   
