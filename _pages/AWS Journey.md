@@ -151,23 +151,23 @@ I started with AWS Cloud Practitioner certificate first. I prepared on my own th
 
 1. Understanding concepts: Watch the full video on YouTube. You may like to install a good ad-blocker, and watch the video in parts, for example 30/60 minutes in one session:
 
-* Basic Introduction: [ AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE)
-
-* Deep Dive: [AWS Certified Cloud Practitioner Certification Course](https://www.youtube.com/watch?v=SOTamWNgDKc)
-
-* Do make notes, however not too much detailed. 
+  Logical flow of understanding(step-by-step)
+    * Do make notes, however not too much detailed.
+    1. Basic Introduction: [ AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE)
+    2. Deep Dive: [AWS Certified Cloud Practitioner Certification Course](https://www.youtube.com/watch?v=SOTamWNgDKc)
+   
 
 2. Practice questions: 
 
-* Get this course [AWS CCP DCT Practice Exams](https://digitalcloud.training/courses/aws-ccp-practice-exams/)
+   * Get this course [AWS CCP DCT Practice Exams](https://digitalcloud.training/courses/aws-ccp-practice-exams/)
 
-  Logical flow of practice (step-wise): Do questions from 
-  1. Practice Exams – Knowledge Review 
-  2. Practice Exams – Training Mode
-  3. Practice Exams – Exam Mode
-  4. Final exam simulator
+     Logical flow of practice (step-by-step): Do questions from 
+     1. Practice Exams – Knowledge Review 
+     2. Practice Exams – Training Mode
+     3. Practice Exams – Exam Mode
+     4. Final exam simulator
 
-* Don't take too much detailed notes. Do note down why some specific option is right or wrong.
+   * Don't take too much detailed notes. Do note down why some specific option is right or wrong.
 
 ## AWS Solutions Architect Associate (AWS SAA)
 
