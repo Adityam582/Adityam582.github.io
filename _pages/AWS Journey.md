@@ -7,8 +7,31 @@ author_profile: false
 #   - /writing.md
 modified: 2022-12-12
 ---
-# AWS Certification Overview
+AWS Learning Journey
 
+- [AWS Certification Overview](#aws-certification-overview)
+  - [Scope and depth for certificates](#scope-and-depth-for-certificates)
+- [Learning Paths](#learning-paths)
+  - [Role-based learning path](#role-based-learning-path)
+  - [Skills-based learning path](#skills-based-learning-path)
+- [Frequently Asked Questions](#frequently-asked-questions)
+  - [Pre-requisities to take AWS certifications](#pre-requisities-to-take-aws-certifications)
+  - [Which AWS certification should I get first?](#which-aws-certification-should-i-get-first)
+  - [How to study and prepare?](#how-to-study-and-prepare)
+    - [Options](#options)
+- [My AWS Certifications Journey](#my-aws-certifications-journey)
+  - [AWS Cloud Practitioner (AWS CCP)](#aws-cloud-practitioner-aws-ccp)
+    - [Steps of learning](#steps-of-learning)
+    - [My recommendation](#my-recommendation)
+  - [AWS Solutions Architect (AWS SAA)](#aws-solutions-architect-aws-saa)
+    - [Steps of learning](#steps-of-learning-1)
+    - [My recommendation](#my-recommendation-1)
+  - [Reasons to do it this way](#reasons-to-do-it-this-way)
+  - [Helpful resources](#helpful-resources)
+    - [Revision: using Mind maps](#revision-using-mind-maps)
+
+
+# AWS Certification Overview
 You can learn more about the different AWS certifications below: 
 
 ![AWS Certification Roadmap](../images/AWS_Cert_Roadmap.png)
