@@ -152,11 +152,13 @@ I started with AWS Cloud Practitioner certificate first. I prepared on my own th
 1. Understanding concepts: Watch the full video on YouTube. You may like to install a good ad-blocker, and watch the video in parts, for example 30/60 minutes in one session:
 
   Logical flow of understanding(step-by-step)
+
     * Do make notes, however not too much detailed.
+
     1. Basic Introduction: [ AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE)
+
     2. Deep Dive: [AWS Certified Cloud Practitioner Certification Course](https://www.youtube.com/watch?v=SOTamWNgDKc)
    
-
 2. Practice questions: 
 
    * Get this course [AWS CCP DCT Practice Exams](https://digitalcloud.training/courses/aws-ccp-practice-exams/)
