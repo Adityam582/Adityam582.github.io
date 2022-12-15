@@ -155,7 +155,7 @@ I started with AWS Cloud Practitioner certificate first. I prepared on my own th
 
 * Deep Dive: [AWS Certified Cloud Practitioner Certification Course](https://www.youtube.com/watch?v=SOTamWNgDKc)
 
-* Do make notes, however not too much detailed.
+* Do make notes, however not too much detailed. 
 
 2. Practice questions: 
 
