@@ -23,7 +23,7 @@ AWS Learning Journey
   - [AWS Cloud Practitioner (AWS CCP)](#aws-cloud-practitioner-aws-ccp)
     - [Steps of learning](#steps-of-learning)
     - [My recommendation](#my-recommendation)
-  - [AWS Solutions Architect (AWS SAA)](#aws-solutions-architect-aws-saa)
+  - [AWS Solutions Architect Associate (AWS SAA)](#aws-solutions-architect-associate-aws-saa)
     - [Steps of learning](#steps-of-learning-1)
     - [My recommendation](#my-recommendation-1)
   - [Reasons to do it this way](#reasons-to-do-it-this-way)
@@ -169,7 +169,7 @@ I started with AWS Cloud Practitioner certificate first. I prepared on my own th
 
 * Don't take too much detailed notes. Do note down why some specific option is right or wrong.
 
-## AWS Solutions Architect (AWS SAA)
+## AWS Solutions Architect Associate (AWS SAA)
 
 Next, I continued with AWS Solutions Architect Associate certificate. I prepared through 
 [Digital Cloud AWS SAA](https://digitalcloud.training/aws-certified-solutions-architect-associate/) ultimate training package, and wrote the exam.
