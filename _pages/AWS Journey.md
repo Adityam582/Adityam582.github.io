@@ -5,10 +5,11 @@ author_profile: false
 # redirect_from: 
 #   - /writing.html
 #   - /writing.md
-modified: 2022-12-12
+modified: 2023-01-05
 ---
-AWS Learning Journey
+Cloud Computing and AWS Learning Journey
 
+- [Cloud Computing](#cloud-computing)
 - [AWS Certification Overview](#aws-certification-overview)
   - [Scope and depth for certificates](#scope-and-depth-for-certificates)
 - [Learning Paths](#learning-paths)
@@ -30,6 +31,14 @@ AWS Learning Journey
   - [Helpful resources](#helpful-resources)
   - [Revision: using Mind maps](#revision-using-mind-maps)
 
+# Cloud Computing
+
+Welcome, it may be a good idea to get familiar with cloud computing, if needed. 
+
+Please look at below resources to learn more about:
+
+1. [What is Cloud Computing? Strategies and Importance for Business](https://www.gartner.com/en/topics/cloud)
+2. [Hype Cycle for Cloud Platform Services, 2022](https://www.gartner.com/en/newsroom/press-releases/2022-08-04-cloud-platform-hc-press-release)
 
 # AWS Certification Overview
 You can learn more about the different AWS certifications below: 
