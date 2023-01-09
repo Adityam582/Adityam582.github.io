@@ -7,9 +7,16 @@ redirect_from:
   - /learning_curve.md
 ---
 <!-- About Aditya -->
+- [Teaching](#teaching)
+  - [Positions](#positions)
+- [Studying - Coursework](#studying---coursework)
+  - [Masters of Science](#masters-of-science)
+  - [Bachelor of Engineering](#bachelor-of-engineering)
+- [Learning Horizon](#learning-horizon)
+- [Industry Training](#industry-training)
 
 # Teaching
-## **Positions**
+## Positions
 * **Tutor/Teaching Assistant** - Web Information Retrieval - Apr - Sep 2022
 * **Student Assistant** - Introduction to Web Science - Oct 2021 - Feb 2022 
 * **Tutor/Teaching Assistant** - Web Information Retrieval - Apr - Sep 2021
@@ -112,6 +119,7 @@ Semester 1
 
 | Focus Area 	| Issuer 	| Year 	| Expiry 	| Link 	|
 |---	|---	|---	|---	|---	|
+| AWS Solutions Architect - Associate | AWS	| Dec 2022 	| | [Link](https://www.dropbox.com/s/8lfjcxoo7mx2lwo/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf?dl=0)|
 | Design Thinking | PDA Group	| Jul 2022 	| | [Link](https://www.dropbox.com/s/fqwxuuj8rwxcwq6/Design%20Thinking.pdf?dl=0)|
 | AWS Cloud Practitioner 	| AWS 	| Dec 2021 	| Dec 2024 	| [Link](https://www.credly.com/badges/31b333f8-2a66-4e15-b2a8-6de3cf160dc3/public_url)|
 | AWS Cloud Practitioner Essentials 	| AWS 	| Oct 2021 	| Oct 2024 	| [Link](https://www.dropbox.com/s/p5xd4z78fvexiay/Aditya%20Mehta%20AWS_CCP_Essential_Certificate.pdf?dl=0) |

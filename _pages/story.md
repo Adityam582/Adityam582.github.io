@@ -6,25 +6,36 @@ redirect_from:
   - /story.html
   - /story.md
 ---
-Timeline
+- [Timeline](#timeline)
+- [Adjectives to describe Aditya](#adjectives-to-describe-aditya)
+- [Personal Mission Statement](#personal-mission-statement)
+- [Hobbies and Interests](#hobbies-and-interests)
+- [Fun Fact?](#fun-fact)
+- [Favorite Quotes](#favorite-quotes)
+- [Future?](#future)
+
+
+# Timeline
 =====
 * 1992 Born in [Indore, India](https://en.wikipedia.org/wiki/Indore) 
 * 2009 Attended schools at  [Ujjain, India](https://en.wikipedia.org/wiki/Ujjain)
-* 2010 Started B.Eng. in Electronics and Instrumentation at SVITS, Indore
-* 2014 June: Finished Bachelors
-* 2014 Sept: Corporate journey started at Infosys - moved to Mysore for training
+* 2010 Started B.Eng. in Electronics and Instrumentation at [SVITS, Indore](https://svvv.edu.in/)
+* 2014 June: Finished Bachelors of Engineering (B.E.) degree
+* 2014 Sept: Corporate journey started at [Infosys](https://www.infosys.com) - moved to Mysore for training
 * 2014 Dec: Finished training at Infosys - Mysore
 * 2015 Jan: Joined Infosys - Chandigarh campus as Systems Engineer Trainee
 * 2018 Mar: Left Infosys - Chandigarh
-* 2018 Apr: Joined Exusia - Pune
+* 2018 Apr: Joined [Exusia](https://exusia.com/) - Pune
 * 2018 Sept: Left Exusia
 * 2018 Oct: Moved to [Koblenz, Germany](https://en.wikipedia.org/wiki/Koblenz); started Masters of Science  at [University of Koblenz](https://west.uni-koblenz.de/studying/mwds)
 * 2020 Mar: Moved to [Oulu, Finland](https://en.wikipedia.org/wiki/Oulu) for ERASMUS exchange semester at [University of Oulu](https://en.wikipedia.org/wiki/University_of_Oulu)
 * 2020 July: Moved back to Koblenz, Germany
+* 2022 August: Finished Master of Science (M. Sc.) degree
+* 2022 October: Started working at [T Systems International](https://www.t-systems.com/de/en) - Bonn, Germany as Junior Software Architect
 * Now: better to see [now](https://adityam582.github.io/now/) section
 
 
-Adjectives to describe Aditya
+# Adjectives to describe Aditya
 =====
 * inquisitive communicator
 * incomplete explorer
@@ -33,7 +44,7 @@ Adjectives to describe Aditya
 
 
 
-Personal Mission Statement
+# Personal Mission Statement
 =====
 
 * I like to do focused deep work. 
@@ -42,7 +53,7 @@ Personal Mission Statement
 * I will learn a lot to create an impact by making a difference in the world.
 
 
-Hobbies and Interests
+# Hobbies and Interests
 ======
 * Reading
 * Intelligence (Human and artificial), data science, machine learning, networks & graph theory
@@ -71,7 +82,7 @@ My Master thesis is "Leveraging graph representation (deep) learning for softwar
 * Work: I've worked and excelled in wide range of tasks and roles.  -->
 
 
-Anything interesting?
+# Fun Fact?
 =====
 * I am so good in remembering directions as to be lost in the city I live.
 <!-- * It’s been more than 3 years I have rarely used social media accounts to focus on my learning and thinking process, to make my time follow my values. -->
@@ -82,12 +93,12 @@ Anything interesting?
 
 
 
-Favorite Quotes
+# Favorite Quotes
 =====
 "If I have seen further, it is by standing on the shoulders of giants." - Newton
 
 
-Future?
+# Future?
 ======
 
 Well, with all entropy (uncertainties), I'm not really sure. I'm trying to find a way to do impactful work in the AI field as the top priority. I also see myself as a global citizen, hopping among Germany, Finland and other European countries - to wander and gain experiences, then finally to go back to India and stay with my family.

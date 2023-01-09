@@ -6,6 +6,17 @@ redirect_from:
   - /myportfolio.html
   - /myportfolio.md
 ---
+- [Data-driven Projects](#data-driven-projects)
+  - [NeuroAI: brain-tumor-classification (Deep Learning: Computer Vision)](#neuroai-brain-tumor-classification-deep-learning-computer-vision)
+  - [New York City Taxi Trip Data Analysis (Big Data: Data Analysis)](#new-york-city-taxi-trip-data-analysis-big-data-data-analysis)
+  - [Sensors Data Analytics (IoT: Data Analytics)](#sensors-data-analytics-iot-data-analytics)
+  - [Indian Elections Analysis (Computational Social Science: Data Analysis)](#indian-elections-analysis-computational-social-science-data-analysis)
+- [Research-driven Projects](#research-driven-projects)
+  - [Digital Consumer Behavior](#digital-consumer-behavior)
+  - [Research Lab](#research-lab)
+  - [Big Data](#big-data)
+  - [ICT and Behavior Change](#ict-and-behavior-change)
+  - [Master Thesis](#master-thesis)
 
 <!-- ---
 title: "Portfolio item number 1"
