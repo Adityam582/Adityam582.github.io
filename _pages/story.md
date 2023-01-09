@@ -16,7 +16,7 @@ redirect_from:
 
 
 # Timeline
-=====
+
 * 1992 Born in [Indore, India](https://en.wikipedia.org/wiki/Indore) 
 * 2009 Attended schools at  [Ujjain, India](https://en.wikipedia.org/wiki/Ujjain)
 * 2010 Started B.Eng. in Electronics and Instrumentation at [SVITS, Indore](https://svvv.edu.in/)
@@ -36,7 +36,7 @@ redirect_from:
 
 
 # Adjectives to describe Aditya
-=====
+
 * inquisitive communicator
 * incomplete explorer
 * lifelong student
@@ -45,7 +45,6 @@ redirect_from:
 
 
 # Personal Mission Statement
-=====
 
 * I like to do focused deep work. 
 * I would do these things everyday: read, write, think, meditate, walk.
@@ -54,7 +53,7 @@ redirect_from:
 
 
 # Hobbies and Interests
-======
+
 * Reading
 * Intelligence (Human and artificial), data science, machine learning, networks & graph theory
 * Travelling
@@ -83,7 +82,7 @@ My Master thesis is "Leveraging graph representation (deep) learning for softwar
 
 
 # Fun Fact?
-=====
+
 * I am so good in remembering directions as to be lost in the city I live.
 <!-- * It’s been more than 3 years I have rarely used social media accounts to focus on my learning and thinking process, to make my time follow my values. -->
 
@@ -94,11 +93,10 @@ My Master thesis is "Leveraging graph representation (deep) learning for softwar
 
 
 # Favorite Quotes
-=====
+
 "If I have seen further, it is by standing on the shoulders of giants." - Newton
 
 
 # Future?
-======
 
 Well, with all entropy (uncertainties), I'm not really sure. I'm trying to find a way to do impactful work in the AI field as the top priority. I also see myself as a global citizen, hopping among Germany, Finland and other European countries - to wander and gain experiences, then finally to go back to India and stay with my family.
