@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aditya Mehta | आदित्य मेहता"
   avatar           : "profile.JPG"
-  bio              : "Data-driven AI and cloud practitioner"
+  bio              : "A real human in the world of AI"
   location         : "Koblenz, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
