@@ -34,7 +34,11 @@ Contact?
 ------
 <!-- If you got interested in talking more about experiences, education, opportunities, or just hangout,I'd love to have a conversation because I believe:  -->
 
-Feel free to connect on [Linkedin](https://www.linkedin.com/in/eradityamehta). Or, schedule a meeting in my calendar [here](https://calendly.com/speakwithaditya).
+Feel free to connect on 
+
+* [Linkedin](https://www.linkedin.com/in/eradityamehta)
+* [Facebook](https://www.facebook.com/adityajimehta)
+<!-- Or, schedule a meeting in my calendar [here](https://calendly.com/speakwithaditya). -->
 
 > "Each person you meet, has stories, and experiences, which can teach something new". 
 

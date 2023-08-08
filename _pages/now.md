@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /now.html
   - /now.md
-modified: 2022-11-20
+modified: 2023-01-18
 ---
 <!-- About Aditya -->
 [My webpage](https://nownownow.com/p/lQgZ): inspired from [NowNowNow.com](https://nownownow.com/).
