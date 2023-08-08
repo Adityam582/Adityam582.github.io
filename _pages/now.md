@@ -13,7 +13,7 @@ modified: 2023-08-08
 Gratitude to Derek Sivers for the idea and its execution
 
 * Living in Koblenz, Germany
-* Working at T Systems International - Bonn, Germany as Data Engineer by work (junior software architect by title)
+* Working as Data Engineer at T Systems International, Bonn office
 * Habits: trying digital minimalism
 * Personal projects: creating my knowledge base. I love markdowns.
 * Reading: Please check my reading list on [reading page](https://adityam582.github.io/reading/), or the full list on [GoodReads page](https://www.goodreads.com/user/show/5350472-aditya-mehta).
