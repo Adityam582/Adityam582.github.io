@@ -21,6 +21,8 @@ main:
   - title: "What's up now?"
     url: /now/
 
+  - title: How can I help you?
+    url: /help/
 
 
   # - title: "Teaching"
