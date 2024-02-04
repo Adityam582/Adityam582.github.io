@@ -20,6 +20,7 @@ Gratitude to Derek Sivers for the idea and its execution
 * Reading: Please check my reading list on [reading page](https://adityam582.github.io/reading/), or the full list on [GoodReads page](https://www.goodreads.com/user/show/5350472-aditya-mehta).
 * Writing: Please [click here](https://adityam582.github.io/writing/) to read my musings and thoughts.
 * Preparing for AWS ML Specialty certification
+* I am a ToastMasters participant, working to improve my public speaking skills.
 <!-- * Working on Master Thesis: scheduled delivery 30 July Applying for relevant job opportunities -->
 <!-- * Teaching as a tutor for the course "Web Information Retrieval" -->
 <!-- Solving practice questions to prepare for AWS SAA certification -->
