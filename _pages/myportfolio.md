@@ -193,4 +193,10 @@ subjective well-being of users.
 
 * **Title**: Graph Representation Learning for Software Engineering
 
-* Work-in-progress, coming soon here
+* Please check the complete report: [click here](https://adityam582.github.io/files/files/Master_Thesis_Aditya_Mehta.pdf)
+
+* **Title**: How to excel at thesis
+
+* Along with my dear friend, we gave a seminar on topic of "How to excel at thesis".
+
+* Please get the presentation: [click here](https://adityam582.github.io/files/HowToExcelAtThesis.pdf)
