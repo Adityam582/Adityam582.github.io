@@ -12,9 +12,11 @@ modified: 2024-02-04
 
 * Do you want to take my help? Feel free to contact me for below points of interest.
 
-1. Data Science/Machine Learning consulting
+1. Modern Software Engineering Consulting
 
-You want to work with AI/ML, but not sure, where and how to start?
+You want to work with modern tech such as cloud, data science, or Artificial Intelligence or Machine Learning.
+
+But not sure, where and how to start?
 
 Do you need assistance in your Data, Cloud, AI strategy?
 
