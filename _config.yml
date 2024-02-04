@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aditya's Digital Home"
+title                    : "Aditya's Digital Home Space"
 title_separator          : "-"
 name                     : &name "Aditya Mehta"
 description              : &description "personal description"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Aditya Mehta | आदित्य मेहता"
-  avatar           : "profile.JPG"
+  #avatar           : "profile.JPG"
   bio              : "A real human in the world of AI"
   location         : "Koblenz, Germany"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #https://scholar.google.com/citations?user=Uk9N6QkAAAAJ #"http://yourfullgooglescholarurl.com"
   email            : #"adityam582@yahoo.in"
