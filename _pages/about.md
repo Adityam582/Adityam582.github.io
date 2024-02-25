@@ -6,7 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-modified: 2024-02-04
+modified: 2024-02-25
+# 2024-02-04
 # 2022-11-20
 ---
 <!-- About Aditya -->
@@ -38,7 +39,7 @@ Contact?
 Feel free to connect on 
 
 * [Linkedin](https://www.linkedin.com/in/eradityamehta)
-* [Facebook](https://www.facebook.com/adityajimehta)
+<!-- * [Facebook](https://www.facebook.com/adityajimehta) -->
 <!-- Or, schedule a meeting in my calendar [here](https://calendly.com/speakwithaditya). -->
 
 > "Each person you meet, has stories, and experiences, which can teach something new". 
