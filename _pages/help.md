@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /help.html
   - /help.md
-modified: 2024-02-23
+modified: 2024-02-25
 # 2024-02-04
 ---
 <!-- About Aditya -->
@@ -26,9 +26,9 @@ But not sure, where and how to start?
 Do you need assistance in your Data, Cloud, AI strategy?
 
 
-# SOP/CV Review
+# Profile Review: CV/LinkedIn/Portfolio
 
-I could help giving feedback to your CV or SOPs.
+I can help giving feedback to your profiles.
 
 # Research Consulting
 
