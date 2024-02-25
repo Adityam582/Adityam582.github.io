@@ -12,7 +12,7 @@ modified: 2024-02-25
 <!-- About Aditya -->
 [My webpage](https://nownownow.com/p/lQgZ): inspired from [NowNowNow.com](https://nownownow.com/).
 
-Gratitude to Derek Sivers for the idea and its execution
+Gratitude to [Derek Sivers](https://sive.rs/) for the idea and its execution
 
 * Living in Koblenz, Germany
 * Working as Data Engineer at T Systems International, Bonn office
