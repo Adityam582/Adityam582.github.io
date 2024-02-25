@@ -12,7 +12,7 @@ modified: 2024-02-25
 ---
 <!-- About Aditya -->
 <!-- ====== -->
-🙏 Welcome, Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta). 
+🙏 Welcome, Greetings 👋, I'm Aditya Mehta (pronounced Aa-Di-T-Ya Me-h-Ta). (::)
 
 I love to use the power of data, cloud and intelligence (human & artificial) to take better decisions.
 
