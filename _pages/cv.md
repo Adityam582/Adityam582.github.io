@@ -11,6 +11,8 @@ redirect_from:
 
 Please click on the link to download PDF version of [CV](https://www.dropbox.com/s/v79ht5jr75loe1m/CV_Aditya_Mehta_MSc_WebDataScience_AI_Cloud_Data_Roles.pdf?dl=0).
 
+<!-- https://www.dropbox.com/s/v79ht5jr75loe1m/CV_Aditya_Mehta_MSc_WebDataScience_AI_Cloud_Data_Roles.pdf?dl=0 -->
+
 <!-- Education
 ======
 * M.Sc. Web and Data Science, University of Koblenz - Germany, Oct 2018 - Aug 2022
