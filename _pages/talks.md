@@ -4,6 +4,7 @@ author_profile: true
 redirect_from: 
   - /talks
   - /talks.md
+modified: 2025-04-13
 ---
 
 # ToastMasters Speeches
@@ -16,3 +17,13 @@ Location: Bonn, Germany
 Date: 2024, Oct 24
 Location: Bonn, Germany
 
+---
+permalink: /help/
+# title: "Now"
+author_profile: true
+redirect_from: 
+  - /help.html
+  - /help.md
+
+
+---
