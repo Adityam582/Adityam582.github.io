@@ -6,8 +6,8 @@ main:
   - title: "Life - Story"
     url: /story/
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
   - title: "Learning Curve"
     url: /learning_curve/
@@ -21,8 +21,11 @@ main:
   - title: "What's up now?"
     url: /now/
 
-  - title: How can I help you?
+  - title: "How can I help you?""
     url: /help/
+
+  - title: "Speaking"
+    url: /talks/
 
 
   # - title: "Teaching"

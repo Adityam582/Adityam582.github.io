@@ -21,7 +21,7 @@ Gratitude to [Derek Sivers](https://sive.rs/) for the idea and its execution
 * Reading: Please check my reading list on [reading page](https://adityam582.github.io/reading/), or the full list on [GoodReads page](https://www.goodreads.com/user/show/5350472-aditya-mehta).
 * Writing: Please [click here](https://adityam582.github.io/writing/) to read my musings and thoughts.
 * Learning: LinkedInforBosses with  Saheli Chatterjee course cohort.
-* Speaking: I am a ToastMasters participant, working to improve my public speaking skills.
+* Speaking: A public speaker at ToastMasters [BIT](https://bonn-international-toastmasters.de/), to improve public speaking skills. 
 <!-- * Working on Master Thesis: scheduled delivery 30 July Applying for relevant job opportunities -->
 <!-- * Teaching as a tutor for the course "Web Information Retrieval" -->
 <!-- Solving practice questions to prepare for AWS SAA certification -->

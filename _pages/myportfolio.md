@@ -6,6 +6,13 @@ redirect_from:
   - /myportfolio.html
   - /myportfolio.md
 ---
+
+# CV
+
+Please click on the link to download PDF version of [CV](https://www.dropbox.com/s/v79ht5jr75loe1m/CV_Aditya_Mehta_MSc_WebDataScience_AI_Cloud_Data_Roles.pdf?dl=0).
+
+
+- [CV](#cv)
 - [Data-driven Projects](#data-driven-projects)
   - [NeuroAI: brain-tumor-classification (Deep Learning: Computer Vision)](#neuroai-brain-tumor-classification-deep-learning-computer-vision)
   - [New York City Taxi Trip Data Analysis (Big Data: Data Analysis)](#new-york-city-taxi-trip-data-analysis-big-data-data-analysis)
@@ -25,6 +32,8 @@ collection: portfolio
 --- -->
 
 <!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
+
+
 
 # Data-driven Projects
 
