@@ -15,7 +15,7 @@ modified: 2025-04-13
 
 # Blog
 
-Let's glow! 💡 https://letsglow.substack.com/
+Click [Let's glow!💡](https://letsglow.substack.com/) 
 
 # Articles on this site
 
