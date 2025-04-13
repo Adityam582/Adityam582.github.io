@@ -9,23 +9,24 @@ main:
   # - title: "CV"
   #   url: /cv/
 
-  - title: "Learning Curve"
-    url: /learning_curve/
-
-  - title: "Reading"
-    url: /reading/
-
-  - title: "Writing"
-    url: /writing/
-
-  - title: "What's up now?"
-    url: /now/
+  # - title: "Learning Curve"
+  #   url: /learning_curve/
 
   - title: "How can I help you?"
     url: /help/
 
+  - title: "Writing"
+    url: /writing/
+
   - title: "Speaking"
     url: /talks/
+
+  - title: "Reading"
+    url: /reading/
+
+  - title: "What's up now?"
+    url: /now/
+
 
 
   # - title: "Teaching"
