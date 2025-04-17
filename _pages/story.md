@@ -12,6 +12,7 @@ redirect_from:
 - [Hobbies and Interests](#hobbies-and-interests)
 - [Fun Fact?](#fun-fact)
 - [Favorite Quotes](#favorite-quotes)
+- [Values Vision Goals](#values-vision-goals)
 - [Future?](#future)
 
 
@@ -96,7 +97,28 @@ My Master thesis is "Leveraging graph representation (deep) learning for softwar
 
 "If I have seen further, it is by standing on the shoulders of giants." - Newton
 
+# Values Vision Goals
+
+- First, you stand on your values - which are mostly constant, do not change so frequently
+
+- Second, you must know vision of life you want, or the vision of life you do not want.
+  This can change with time.
+
+- Third, you make your long-term and short-term goals. 
+  Translate this to your daily life --> Design and get the life you dream of.
+
+
+P.S. I have distributed (gifted) this clarity-document to my family, and friends, and it helps to know about what you want from life.
+
+Please click here to download.
+
+- Full version: [Values Vision Goals](https://adityam582.github.io/files/VisionGoals.pdf)
+
+- Short version: [Values Vision Goals](https://adityam582.github.io/files/VisionGoals_Small.pdf)
+
 
 # Future?
 
 Well, with all entropy (uncertainties), I'm not really sure. I'm trying to find a way to do impactful work in the AI field as the top priority. I also see myself as a global citizen, hopping among Germany, Finland and other European countries - to wander and gain experiences, then finally to go back to India and stay with my family.
+
+It's always better idea to check [Now page](https://adityam582.github.io/now/) 
