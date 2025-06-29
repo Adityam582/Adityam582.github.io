@@ -15,13 +15,14 @@ modified: 2024-02-25
 Gratitude to [Derek Sivers](https://sive.rs/) for the idea and its execution
 
 * Living in Koblenz, Germany
-* Working as Data Engineer at T Systems International, Bonn office
+* Working as Cloud & AI Engineer at T Systems International, Bonn office
 * Habits: trying digital minimalism
 * Personal projects: creating my knowledge base. I love markdowns.
 * Reading: Please check my reading list on [reading page](https://adityam582.github.io/reading/), or the full list on [GoodReads page](https://www.goodreads.com/user/show/5350472-aditya-mehta).
 * Writing: Please [click here](https://adityam582.github.io/writing/) to read my musings and thoughts.
 * Learning: LinkedInforBosses with  Saheli Chatterjee course cohort.
 * Speaking: A public speaker at ToastMasters [BIT](https://bonn-international-toastmasters.de/), to improve public speaking skills. 
+* 
 <!-- * Working on Master Thesis: scheduled delivery 30 July Applying for relevant job opportunities -->
 <!-- * Teaching as a tutor for the course "Web Information Retrieval" -->
 <!-- Solving practice questions to prepare for AWS SAA certification -->
